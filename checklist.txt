@@ -1,0 +1,62 @@
+# CSC 212 Data Structures
+## Homework 6 Checklist
+
+Listed below are various aspects of the assignment.  When you turn in
+your work, please indicate the status of each item
+
+- YES: indicates that the item is fully complete
+- NO: indicates that the item is not attempted
+- PART: indicates that the item is attempted but not fully complete
+
+
+## Assignment Points:
+
+___YES__ 1 pt: Phase 1 methods implemented for singly linked list
+
+___YES__ 1 pt: Passes all phase 1 tests for singly linked list
+
+___YES__ 1 pt: Phase 2 methods implemented for singly linked list
+
+___YES__ 1 pt: Passes all phase 2 tests for singly linked list
+
+__YES___ 1 pt: Phase 3 methods implemented efficiently for singly linked list
+
+__YES__ 1 pt: Passes all phase 3 tests for singly linked list
+
+__YES__ 1 pts: Program throws appropriate exceptions (with informative error messages)
+
+___YES__ 1 pt: Passes all phase 4 tests for singly linked list
+
+___PART__ 1 pt: Iterator class implemented for singly linked list
+
+___PART__ 1 pt: Passes all phase 5 tests for singly linked list
+
+
+## Kudos:
+
+_____ (kudos) New version of SLL that implements an iterator class and hide details of Node as a private nested class.
+
+
+
+
+## General Items:
+
+___YES__ 4 pts: Program compiles without errors or warnings
+
+___PART__ 2 pts: Executes fully & consistently without crashing (exception/freeze)
+
+___YES__ 2 pt: Complies with style guidelines (missing items 1 pt each):
+
+      ___YES__ Classes & class members all have Javadoc header comments
+
+      ___YES__ Clear and consistent indentation of bracketed sections
+
+      __YES___ Adheres to Java conventions on naming & capitalization
+
+      ___YES__ Methods & variables all have clear and accurate names
+
+      ___PART__ Methods avoid confusing side effects
+
+___YES__ 1 pt: All required files included with submission
+
+___YES__ 1 pt: readme.md contains reflection on the assignment

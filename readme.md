@@ -1,0 +1,9 @@
+Consulted with Lan on the subseqByCopy and consulted with Angie on subseqByTransfer
+
+Reflection (Musa & Eva):
+
+Something that worked out well for us was learning how to use for and while loops to get to where we wanted to be within a LinkedList, which really helped us out in getting our methods in SLL.java to work and pass the tests. At this point in the class, I think we've really gotten good at looping through different data structures.
+
+Another thing that got gradually easier for us was redirecting the heads and tails of the lists based on what we wanted the methods to do (setting the tail to newItem in addLast, setting the copied list's head to the next element after a specific point in the list in spliceByCopy, etc). Having a better understanding the relationship between the head, tail, and elements in-between made moving them around for each method easier, since each method demanded them to be moved around in slightly different ways. The iterator class was difficult to figure out as we were still attempting to see where the iterator was pointing to as that was dictating the functionality of many methods within the class.
+
+For future assignments, we feel like having less phases, or reimagining the way phases are separated and categorized would give us more of a chance to absorb the content of each assignment better. We'd find it difficult to be able to recall the functions of all the Phase 2 methods because it feels so long since we've worked on them by the time we've gotten to Phase 5. Some important methods we've picked up to use in future assingments, though, include the copy and transfer methods as they are both good for visualizing how different methods affect your program as a whole and are helpful for avoiding unwanted side effects.
